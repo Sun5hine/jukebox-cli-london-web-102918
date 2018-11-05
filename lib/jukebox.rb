@@ -10,8 +10,6 @@ songs = [
   "Amos Lee - Keep It Loose, Keep It Tight"
 ]
 
-Lee - Keep It Loose, Keep It Tight"
-]
 
 
 
